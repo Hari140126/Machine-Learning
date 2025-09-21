@@ -9,15 +9,14 @@ The Traffic Forecast System is a **Machine Learning project** designed to predic
 ## Dataset
 - The dataset used for this project contains historical traffic data, including timestamps and traffic volume.  
 - **File:** `traffic_data.csv`  
-- **Source:** Collected from [your data source] or created for the project.  
+- **Source:** Collected from Kaggle 
 
 ---
 
 ## Features
 The main features used for forecasting include:
 - Date and time information
-- Traffic volume/count
-- Other relevant features (e.g., day of week, weather if included)  
+- Traffic volume/count 
 
 ---
 
@@ -25,9 +24,8 @@ The main features used for forecasting include:
 - **Time Series Forecasting** techniques
 - Example models used:
   - ARIMA
-  - LSTM (if applied)
-  - Prophet (if applied)  
-*(You can mention whichever model you implemented in your notebook.)*
+  - LSTM 
+  - Prophet 
 
 ---
 
